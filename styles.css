@@ -8,4 +8,7 @@ body {
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
+  margin: 10px 20px 30px 90px;
+  border: 3px green dashed;
+  padding: 5px;
 }
